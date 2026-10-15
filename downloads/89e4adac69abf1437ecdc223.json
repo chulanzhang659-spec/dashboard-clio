@@ -1,0 +1,130 @@
+{
+  "competitor_id": "kiss-me",
+  "platform": "抖音",
+  "shop_name": "Kiss Me奇士美官方旗舰店",
+  "shop_url": "https://www.douyin.com/user/MS4wLjABAAAAEJsSSFhDvOnRDgUJUZYCxvAZyxzxqbQBpEfI0T7Z7n1sN4mHyZbes84sPRjmB47z",
+  "captured_at": "2026-10-15T13:34:00+08:00",
+  "capture_status": "partial_capture",
+  "scope": "安卓App由同名认证账号进入店铺，按销量排序采集前5款列表；第1款漆黑色/单支选中规格79元。其余规格与赠品条件待补",
+  "extraction_method": "MuMu安卓App正常界面截图与UI树；未下单、未填写地址、未开会员",
+  "products": [
+    {
+      "rank": 1,
+      "title": "KISSME持久柔滑液体眼线笔耐汗持妆不易晕染极细下睫毛单双支",
+      "product_id": null,
+      "product_url": null,
+      "sku": "漆黑色／单支",
+      "selected_sku_display_price": 79,
+      "list_display_price": 59,
+      "price_label": "选中漆黑色、单支后显示实付价79元；未填写地址、未下单",
+      "sold_label": "已售7万+",
+      "gift_copy": null,
+      "gift_reason": "未完整核验赠品条件，保留未知",
+      "coupon_conditions": "店铺入会4元券需会员授权；未入会未领券；具体商品优惠资格未核实",
+      "promotion_copy": "眼线主图活动2026-10-15至2026-11-11",
+      "alternative_price": 51,
+      "alternative_price_condition": "另示抖音商城App专享；未验证领取和适用规格",
+      "link_status": "App商品列表可见；稳定商品链接待补",
+      "captured_at": "2026-10-15T13:34:00+08:00",
+      "evidence": [
+        "../patrol-20261015/kissme-sales-top-2.png",
+        "../patrol-20261015/kissme-eyeliner-finalsku.png",
+        "../patrol-20261015/kissme-eyeliner-sku.xml"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "KISSME精巧柔雾染眉膏防水耐汗不易脱色立体浅色野生眉不易晕染",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 59,
+      "price_label": "销量排序列表展示价；选中规格未核验",
+      "sold_label": "已售7万+",
+      "gift_copy": "列表标注送赠品，具体名称、数量、门槛未核验",
+      "gift_reason": "未完整核验赠品条件，保留未知",
+      "coupon_conditions": "店铺入会4元券需会员授权；未入会未领券；具体商品优惠资格未核实",
+      "promotion_copy": null,
+      "alternative_price": null,
+      "alternative_price_condition": null,
+      "link_status": "App商品列表可见；稳定商品链接待补",
+      "captured_at": "2026-10-15T13:34:00+08:00",
+      "evidence": [
+        "../patrol-20261015/kissme-sales-top-2.png"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "KISSME睫毛膏纤长浓密卷翘防水立体不易晕染定型持妆速干不塌",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 98,
+      "price_label": "销量排序列表展示价；选中规格未核验",
+      "sold_label": "已售5万+",
+      "gift_copy": null,
+      "gift_reason": "未完整核验赠品条件，保留未知",
+      "coupon_conditions": "店铺入会4元券需会员授权；未入会未领券；具体商品优惠资格未核实",
+      "promotion_copy": null,
+      "alternative_price": null,
+      "alternative_price_condition": null,
+      "link_status": "App商品列表可见；稳定商品链接待补",
+      "captured_at": "2026-10-15T13:34:00+08:00",
+      "evidence": [
+        "../patrol-20261015/kissme-sales-3.png"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "KISSME奇士美盈美柔滑眼线液笔持久不晕染新手初学者自然勾勒",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 59,
+      "price_label": "销量排序列表展示价；选中规格未核验",
+      "sold_label": "已售2万+",
+      "gift_copy": null,
+      "gift_reason": "未完整核验赠品条件，保留未知",
+      "coupon_conditions": "店铺入会4元券需会员授权；未入会未领券；具体商品优惠资格未核实",
+      "promotion_copy": null,
+      "alternative_price": null,
+      "alternative_price_condition": null,
+      "link_status": "App商品列表可见；稳定商品链接待补",
+      "captured_at": "2026-10-15T13:34:00+08:00",
+      "evidence": [
+        "../patrol-20261015/kissme-sales-3.png"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "KISSME奇士美持久柔滑液体眼线笔耐汗持妆不晕妆速干纤细眼线笔",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 59,
+      "price_label": "销量排序列表展示价；选中规格未核验",
+      "sold_label": "已售2万+",
+      "gift_copy": null,
+      "gift_reason": "未完整核验赠品条件，保留未知",
+      "coupon_conditions": "店铺入会4元券需会员授权；未入会未领券；具体商品优惠资格未核实",
+      "promotion_copy": null,
+      "alternative_price": null,
+      "alternative_price_condition": null,
+      "link_status": "App商品列表可见；稳定商品链接待补",
+      "captured_at": "2026-10-15T13:34:00+08:00",
+      "evidence": [
+        "../patrol-20261015/kissme-sales-5.png"
+      ]
+    }
+  ],
+  "missing": [
+    "其余4款选中规格价",
+    "各款赠品名称/数量/门槛",
+    "稳定商品ID及链接",
+    "同口径第二时点快照"
+  ]
+}

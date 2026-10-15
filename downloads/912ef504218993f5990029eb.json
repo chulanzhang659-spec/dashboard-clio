@@ -1,0 +1,129 @@
+{
+  "competitor_id": "kiss-me",
+  "platform": "天猫",
+  "shop_name": "KISSME奇士美官方旗舰店",
+  "captured_at": "2026-10-14T10:23:09.144Z",
+  "capture_status": "partial_capture",
+  "scope": "销量TOP5完整选中规格价及活动海报；联名赠品、直播限量礼和抽奖分别记录",
+  "products": [
+    {
+      "rank": 1,
+      "title": "kissme眼线液笔 独家专供款防水眼线笔不易晕染胶笔卧蚕下至笔",
+      "product_id": "668403180662",
+      "product_url": "https://detail.tmall.com/item.htm?id=668403180662",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=668403180662&mi_id=0000JATz_OmWa54gNnA6D5D7guel5zG4PZBxs7A-ubYlyRk&ns=1&skuId=6032463848091&xxc=taobaoSearch",
+      "sku": "眼线液笔 / NEW #01茶棕色【 精细眼线笔】",
+      "selected_sku_display_price": 58.3,
+      "price_label": "当前账号平台加补后规格价，优惠前价格及权益不自行叠算",
+      "gift_copy": "未见无条件商品赠礼；另有直播间报暗号限量800份粉色睫毛夹、会员0元抽奖限10份染眉膏04色（包装随机）；这些不是下单必赠。",
+      "coupon_conditions": "10月13日至14日23:59:59官方立减12%；页面含满减券和淘金币抵扣；新会员满259减15另需资格；20号晚8满200减25为未来条件。限购以页面为准。",
+      "link_status": "active",
+      "evidence": [
+        "kiss-me-tmall-r1-dom.json",
+        "kiss-me-tmall-r1-selected.png",
+        "kiss-me-r1-poster-0.webp",
+        "kiss-me-r1-poster-1.webp"
+      ],
+      "public_evidence": [
+        "kiss-me-r1-poster-0.webp",
+        "kiss-me-r1-poster-1.webp"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "【艾丝乐小兔联名】kissme染眉膏防水不易脱色眉笔眉膏自然野生眉",
+      "product_id": "586611237320",
+      "product_url": "https://detail.tmall.com/item.htm?id=586611237320",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=586611237320&mi_id=0000Rp5LkIrf_4NV6SJgwH0LQYSYl0zjCjQenPhQ8_p6aZc&ns=1&skuId=6137690388034&xxc=taobaoSearch",
+      "sku": "【✅限定包装 #03 典雅灰棕】 适合棕色~深棕发色 / 8g",
+      "selected_sku_display_price": 58.3,
+      "price_label": "当前账号平台加补后规格价，优惠前价格及权益不自行叠算",
+      "gift_copy": "联名色号买正装赠ESTHER BUNNY便利贴×1；另有直播间报暗号限量800份粉色睫毛夹、会员0元抽奖限10份染眉膏04色（包装随机）；这些不是下单必赠。",
+      "coupon_conditions": "10月13日至14日23:59:59官方立减12%；页面含满减券和淘金币抵扣；新会员满259减15另需资格；20号晚8满200减25为未来条件。限购以页面为准。",
+      "link_status": "active",
+      "evidence": [
+        "kiss-me-tmall-r2-dom.json",
+        "kiss-me-tmall-r2-selected.png",
+        "kiss-me-r2-poster-0.webp",
+        "kiss-me-r2-poster-1.webp"
+      ],
+      "public_evidence": [
+        "kiss-me-r2-poster-0.webp",
+        "kiss-me-r2-poster-1.webp"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "kissme睫毛膏 防水纤长卷翘不晕染打底定型持久雨衣kiss me奇士美",
+      "product_id": "586895431409",
+      "product_url": "https://detail.tmall.com/item.htm?id=586895431409",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=586895431409&mi_id=0000SDFU6jxEgfIG_NvxJZQ2JMnaThy230m1pF-JL2fRaHI&ns=1&skuId=6277296314388&xxc=taobaoSearch",
+      "sku": "【爆款3代睫毛膏】防水up，纤长卷翘不易晕染 / ✅ HOT#3代精湛防水（纤长黑色） 6g\n千人加购",
+      "selected_sku_display_price": 98.1,
+      "price_label": "当前账号平台加补后规格价，优惠前价格及权益不自行叠算",
+      "gift_copy": "未见无条件商品赠礼；另有直播间报暗号限量800份粉色睫毛夹、会员0元抽奖限10份染眉膏04色（包装随机）；这些不是下单必赠。",
+      "coupon_conditions": "10月13日至14日23:59:59官方立减12%；页面含满减券和淘金币抵扣；新会员满259减15另需资格；20号晚8满200减25为未来条件。限购以页面为准。",
+      "link_status": "active",
+      "evidence": [
+        "kiss-me-tmall-r3-dom.json",
+        "kiss-me-tmall-r3-selected.png",
+        "kiss-me-r3-poster-0.webp",
+        "kiss-me-r3-poster-1.webp"
+      ],
+      "public_evidence": [
+        "kiss-me-r3-poster-0.webp",
+        "kiss-me-r3-poster-1.webp"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "kissme眼线胶笔 耐水不易晕染持久卧蚕笔液笔膏极细kiss me奇士美",
+      "product_id": "602978970872",
+      "product_url": "https://detail.tmall.com/item.htm?id=602978970872",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=602978970872&mi_id=0000L7ExYLDdco6pp4JXKQ-7ZAcnnNkvyCqQw4zBx5-fGeM&ns=1&skuId=5832971623613&xxc=taobaoSearch",
+      "sku": "眼线膏/胶 / 01浓郁黑 【不可回旋】",
+      "selected_sku_display_price": 68.19,
+      "price_label": "当前账号平台加补后规格价，优惠前价格及权益不自行叠算",
+      "gift_copy": "未见无条件商品赠礼；另有直播间报暗号限量800份粉色睫毛夹、会员0元抽奖限10份染眉膏04色（包装随机）；这些不是下单必赠。",
+      "coupon_conditions": "10月13日至14日23:59:59官方立减12%；页面含满减券和淘金币抵扣；新会员满259减15另需资格；20号晚8满200减25为未来条件。限购以页面为准。",
+      "link_status": "active",
+      "evidence": [
+        "kiss-me-tmall-r4-dom.json",
+        "kiss-me-tmall-r4-selected.png",
+        "kiss-me-r4-poster-0.webp",
+        "kiss-me-r4-poster-1.webp"
+      ],
+      "public_evidence": [
+        "kiss-me-r4-poster-0.webp",
+        "kiss-me-r4-poster-1.webp"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "kissme眼线液笔 耐水不易晕染新手眼线胶笔膏卧蚕笔kiss me奇士美",
+      "product_id": "586891579304",
+      "product_url": "https://detail.tmall.com/item.htm?id=586891579304",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=586891579304&mi_id=0000AIbsIPZmngHW2LuDQNEkQxrmbB6zDtHQqfj231ofJoA&ns=1&skuId=6069307044955&xxc=taobaoSearch",
+      "sku": "#01 漆黑色 经典百搭 通勤必备\n推荐",
+      "selected_sku_display_price": 78.1,
+      "price_label": "当前账号平台加补后规格价，优惠前价格及权益不自行叠算",
+      "gift_copy": "未见无条件商品赠礼；另有直播间报暗号限量800份粉色睫毛夹、会员0元抽奖限10份染眉膏04色（包装随机）；这些不是下单必赠。",
+      "coupon_conditions": "10月13日至14日23:59:59官方立减12%；页面含满减券和淘金币抵扣；新会员满259减15另需资格；20号晚8满200减25为未来条件。限购以页面为准。",
+      "link_status": "active",
+      "evidence": [
+        "kiss-me-tmall-r5-dom.json",
+        "kiss-me-tmall-r5-selected.png",
+        "kiss-me-r5-poster-0.webp",
+        "kiss-me-r5-poster-1.webp"
+      ],
+      "public_evidence": [
+        "kiss-me-r5-poster-0.webp",
+        "kiss-me-r5-poster-1.webp"
+      ]
+    }
+  ],
+  "missing": [
+    "直播/会员礼的实际资格和剩余名额未验证",
+    "第二个同SKU同优惠条件时间点未采集，不计算变化"
+  ]
+}

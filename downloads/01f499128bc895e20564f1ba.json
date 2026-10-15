@@ -1,0 +1,124 @@
+{
+  "competitor_id": "dasique",
+  "platform": "天猫",
+  "shop_name": "dasique代曦可旗舰店",
+  "captured_at": "2026-10-14T10:14:44.975Z",
+  "capture_status": "partial_capture",
+  "scope": "销量TOP5含独立售卖镜子；所选SKU价格及4款促销海报已采集",
+  "products": [
+    {
+      "rank": 1,
+      "title": "【官方正品】dasique/代曦可四色腮红盘哑光自然蜜桃奶茶色冷暖色",
+      "product_id": "772252953354",
+      "product_url": "https://detail.tmall.com/item.htm?id=772252953354",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=772252953354&mi_id=0000COzsj-aQOu11vyy3wsJ3qpxyA6w4wZGR2dDzSwqzZEM&ns=1&skuId=6213177182871&xxc=taobaoSearch",
+      "sku": "【韩妆入门必备】#07 糖果跳跳糖\n万人加购",
+      "selected_sku_display_price": 143,
+      "price_label": "当前账号所选SKU展示价；账号红包已含，不代表所有买家价格",
+      "gift_copy": "同款07海报：单笔买1赠腮红刷；买≥2赠腮红刷+手持镜+云朵包；满赠不叠享、赠完即止。",
+      "gift_reason": null,
+      "coupon_conditions": "包含6元账号红包及超级立减；20号晚8满200减25为未来条件，不自行叠减",
+      "link_status": "active",
+      "evidence": [
+        "dasique-tmall-r1-dom.json",
+        "dasique-tmall-r1-selected.png",
+        "dasique-r1-main-3.webp"
+      ],
+      "public_evidence": [
+        "dasique-r1-main-3.webp"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "【官方正品】韩国DASIQUE/代曦可九色眼影盘高光修容腮红一体奶茶",
+      "product_id": "772173020187",
+      "product_url": "https://detail.tmall.com/item.htm?id=772173020187",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=772173020187&mi_id=0000oKS0Bts1AKIHHMpXttu8BovtRP9IaN5C6ymP345CxFQ&ns=1&skuId=6111534420737&xxc=taobaoSearch",
+      "sku": "【Lisa同款】#24 榛果盘\n千人加购",
+      "selected_sku_display_price": 193,
+      "price_label": "当前账号所选SKU展示价；账号红包已含，不代表所有买家价格",
+      "gift_copy": "同款24海报：单笔买1赠眼影刷；买≥2赠眼影刷+手持镜+云朵包；满赠不叠享、赠完即止。",
+      "gift_reason": null,
+      "coupon_conditions": "包含6元账号红包及超级立减；20号晚8满200减25为未来条件，不自行叠减",
+      "link_status": "active",
+      "evidence": [
+        "dasique-tmall-r2-dom.json",
+        "dasique-tmall-r2-selected.png",
+        "dasique-r2-main-3.webp"
+      ],
+      "public_evidence": [
+        "dasique-r2-main-3.webp"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "【重磅新品】dasique/代曦可四色腮红膏膨胀氛围色显白显嫩修容",
+      "product_id": "978467085893",
+      "product_url": "https://detail.tmall.com/item.htm?id=978467085893",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=978467085893&mi_id=0000TMO4Alvb_08hlk1OlEG4-hdrbBd9x8b9MQm5k-tl4jw&ns=1&skuId=6198242759423&xxc=taobaoSearch",
+      "sku": "【融肤不融妆 黄皮可入】 #18 甜杏牛奶 腮红膏\n千人加购",
+      "selected_sku_display_price": 143,
+      "price_label": "当前账号所选SKU展示价；账号红包已含，不代表所有买家价格",
+      "gift_copy": "商品主图展示19莓果牛奶（当前所选18甜杏牛奶）：买1赠腮红刷，买≥2赠腮红刷+手持镜+云朵包。跨色号适用待确认；满赠不叠享、赠完即止。",
+      "gift_reason": null,
+      "coupon_conditions": "包含6元账号红包及超级立减；20号晚8满200减25为未来条件，不自行叠减",
+      "link_status": "active",
+      "evidence": [
+        "dasique-tmall-r3-dom.json",
+        "dasique-tmall-r3-selected.png",
+        "dasique-r3-main-3.webp"
+      ],
+      "public_evidence": [
+        "dasique-r3-main-3.webp"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "dasique/代曦可镜子",
+      "product_id": "911797657741",
+      "product_url": "https://detail.tmall.com/item.htm?id=911797657741",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=911797657741&mi_id=0000lt6SxfGY8eyk5mCmrBugJNnDTDKaKr_gv6LJ-R2vA8o&ns=1&skuId=6297790478973&xxc=taobaoSearch",
+      "sku": "爱心小镜子",
+      "selected_sku_display_price": 39,
+      "price_label": "当前账号所选SKU展示价；账号红包已含，不代表所有买家价格",
+      "gift_copy": null,
+      "gift_reason": "独立售卖镜子，未见额外赠品",
+      "coupon_conditions": "单卖镜子39元",
+      "link_status": "active",
+      "evidence": [
+        "dasique-tmall-r4-dom.json",
+        "dasique-tmall-r4-selected.png",
+        "dasique-r4-main-3.webp"
+      ],
+      "public_evidence": [
+        "dasique-r4-main-3.webp"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "【官方正品】韩国DASIQUE/代曦可果汁镜面唇釉玻璃镜面水光清透",
+      "product_id": "772260485490",
+      "product_url": "https://detail.tmall.com/item.htm?id=772260485490",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=772260485490&mi_id=0000f-t59vSZ3Ayw8D1BQ8GS3yzMVUUrU2JHjSJAFQbAVZY&ns=1&skuId=6033309065299&xxc=taobaoSearch",
+      "sku": "#01 芒果优格",
+      "selected_sku_display_price": 103,
+      "price_label": "当前账号所选SKU展示价；账号红包已含，不代表所有买家价格",
+      "gift_copy": "商品主图展示09蜜桃初露（当前所选01芒果优格）：买1赠蓝色方形镜，买≥2赠蓝色方形镜+口红包。跨色号适用待确认；满赠不叠享、赠完即止。",
+      "gift_reason": null,
+      "coupon_conditions": "包含6元账号红包及超级立减；20号晚8满200减25为未来条件，不自行叠减",
+      "link_status": "active",
+      "evidence": [
+        "dasique-tmall-r5-dom.json",
+        "dasique-tmall-r5-selected.png",
+        "dasique-r5-main-3.webp"
+      ],
+      "public_evidence": [
+        "dasique-r5-main-3.webp"
+      ]
+    }
+  ],
+  "missing": [
+    "腮红膏18色号及唇釉01色号是否适用主图其他色号赠品待确认",
+    "第二个同SKU同条件快照未采集，不计算变化"
+  ]
+}

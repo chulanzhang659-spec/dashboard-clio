@@ -1,0 +1,141 @@
+{
+  "competitor_id": "3ce",
+  "platform": "天猫",
+  "shop_name": "3CE官方旗舰店",
+  "captured_at": "2026-10-14T10:01:30.472Z",
+  "capture_status": "partial_capture",
+  "scope": "销量TOP5完整规格及色号价、SKU图；4款活动赠品海报已存，当前与未来预售分别记录",
+  "products": [
+    {
+      "rank": 1,
+      "title": "【双11抢先加购】3CE丝绒唇釉升级版 口红橘色裸色不易掉色女礼物",
+      "product_id": "585956006662",
+      "product_url": "https://detail.tmall.com/item.htm?id=585956006662",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?id=585956006662&skuId=6134494980205",
+      "sku": "【丝绒唇釉升级版 全色号】柔雾哑光 / 【热卖色】#25「她的独白」自信裸-",
+      "selected_sku_display_price": 100,
+      "price_label": "选中色号后页面展示价；优惠单列，不自行减算结算价",
+      "gift_copy": "抢先购海报：买1支赠波点手持镜；单笔买≥2支赠镜+波点水杯+波点云朵包。每单限1份、各档不叠享。另张10/15晚8预售图为棕色镜/耳罩/云朵包，并注明现在拍下不享图示礼赠，单独保留。",
+      "gift_reason": null,
+      "coupon_conditions": "当前账号7元红包及淘金币0.9；优惠资格和叠加结算未验证；活动图有充值600得660购物金、会员优惠等附加条件，未充值未领券。",
+      "link_status": "active",
+      "evidence": [
+        "3ce-tmall-r1-confirmed.json",
+        "3ce-tmall-r1-confirmed.png",
+        "3ce-r1-skuimg.webp",
+        "3ce-r1-main-1.webp",
+        "3ce-r1-main-2.webp"
+      ],
+      "public_evidence": [
+        "3ce-r1-skuimg.webp",
+        "3ce-r1-main-1.webp",
+        "3ce-r1-main-2.webp"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "【双11抢先加购】3CE时妆盘九宫格眼影橘棕盘黄油盘缎光粉盗梦粉Z",
+      "product_id": "589371456351",
+      "product_url": "https://detail.tmall.com/item.htm?id=589371456351",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?id=589371456351&skuId=6141643228567",
+      "sku": "【重磅上新】九色眼影家族 / 【热卖色】#SMOOTHER「深棕哑光盘」▪\n推荐",
+      "selected_sku_display_price": 245,
+      "price_label": "选中色号后页面展示价；优惠单列，不自行减算结算价",
+      "gift_copy": "当前海报九色时妆盘：买1赠正装唇露MORE PEACH西柚蜜桃；买≥2赠该唇露+波点气垫梳+波点眼罩+波点保温杯。所选为经典九宫格SMOOTHER，是否同享仍待确认。预售图改为正装眼影PEACH GLAZE及两件档周边，明确现在拍下不享图示礼赠。",
+      "gift_reason": null,
+      "coupon_conditions": "当前账号7元红包及淘金币0.9；超级立减46元；优惠资格和叠加结算未验证；活动图有充值600得660购物金、会员优惠等附加条件，未充值未领券。",
+      "link_status": "active",
+      "evidence": [
+        "3ce-tmall-r2-confirmed.json",
+        "3ce-tmall-r2-confirmed.png",
+        "3ce-r2-skuimg.webp",
+        "3ce-r2-main-1.webp",
+        "3ce-r2-main-2.webp"
+      ],
+      "public_evidence": [
+        "3ce-r2-skuimg.webp",
+        "3ce-r2-main-1.webp",
+        "3ce-r2-main-2.webp"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "【酷洛米特别版】3CE丝绒唇釉升级口红不易沾杯裸色橘彩妆女送礼Z",
+      "product_id": "631873305236",
+      "product_url": "https://detail.tmall.com/item.htm?id=631873305236",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?id=631873305236&skuId=6140674325994",
+      "sku": "【热卖合集】丝绒唇釉升级版/经典版 / 【3CE X Kuromi】#31 SILENT PINK「裸灰粉」",
+      "selected_sku_display_price": 100,
+      "price_label": "选中色号后页面展示价；优惠单列，不自行减算结算价",
+      "gift_copy": "所选Kuromi合作款专属：买1支赠酷洛米手持镜；单笔买≥2支赠酷洛米挂件+手持镜。仅合作款享合作周边；每单限1份、各档不叠享。",
+      "gift_reason": null,
+      "coupon_conditions": "当前账号7元红包及淘金币0.9；优惠资格和叠加结算未验证；活动图有充值600得660购物金、会员优惠等附加条件，未充值未领券。",
+      "link_status": "active",
+      "evidence": [
+        "3ce-tmall-r3-confirmed.json",
+        "3ce-tmall-r3-confirmed.png",
+        "3ce-r3-skuimg.webp",
+        "3ce-r3-main-1.webp",
+        "3ce-r3-main-2.webp"
+      ],
+      "public_evidence": [
+        "3ce-r3-skuimg.webp",
+        "3ce-r3-main-1.webp",
+        "3ce-r3-main-2.webp"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "【双11抢先购】3CE单色腮红 反季桃裸粉高光修容膨胀收缩礼物Z",
+      "product_id": "584816954855",
+      "product_url": "https://detail.tmall.com/item.htm?id=584816954855",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?id=584816954855&skuId=6306300686040",
+      "sku": "【热卖色】#SWEET ODDITY「反季桃」（膨胀&氛围色）‘",
+      "selected_sku_display_price": 100,
+      "price_label": "选中色号后页面展示价；优惠单列，不自行减算结算价",
+      "gift_copy": "海报买就送妆前乳云朵白5ml；单笔实付满439赠正装眼影棒1，限量10000份，赠完即止，部分直播/购物金及标识链接不参加。",
+      "gift_reason": null,
+      "coupon_conditions": "当前账号7元红包及淘金币0.9；满100减10券；优惠资格和叠加结算未验证；活动图有充值600得660购物金、会员优惠等附加条件，未充值未领券。",
+      "link_status": "active",
+      "evidence": [
+        "3ce-tmall-r4-confirmed.json",
+        "3ce-tmall-r4-confirmed.png",
+        "3ce-r4-skuimg.webp",
+        "3ce-r4-main-1.webp",
+        "3ce-r4-main-2.webp"
+      ],
+      "public_evidence": [
+        "3ce-r4-skuimg.webp",
+        "3ce-r4-main-1.webp",
+        "3ce-r4-main-2.webp"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "【官方正品】3CE水雾唇露奶唇泥口红唇膏裸色不易沾杯女送礼",
+      "product_id": "647328110632",
+      "product_url": "https://detail.tmall.com/item.htm?id=647328110632",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=647328110632&mi_id=00002PnNIQoc4S3i3_A4f5qinAAg1ZxCxIv6_sGgcs0DyB0&rn=2037122a8be4f89694354a56180560fc&skuId=6293987015504",
+      "sku": "【经典回归】经典丝绒唇釉/水雾唇露 / #LAYDOWN「乌龙奶茶」*\n推荐",
+      "selected_sku_display_price": 74,
+      "price_label": "选中色号后页面展示价；优惠单列，不自行减算结算价",
+      "gift_copy": null,
+      "gift_reason": "已核验SKU图未载明额外赠品；完整活动赠品条件仍待核验，不等同无赠品",
+      "coupon_conditions": "百亿补贴30、闪电加补7.1、淘金币已抵0.9；页面平台加补后74；20号晚8满200减25",
+      "link_status": "active",
+      "evidence": [
+        "3ce-tmall-r5-confirmed.json",
+        "3ce-tmall-r5-confirmed.png",
+        "3ce-r5-skuimg.webp"
+      ],
+      "public_evidence": [
+        "3ce-r5-skuimg.webp"
+      ]
+    }
+  ],
+  "missing": [
+    "经典SMOOTHER规格是否适用九色时妆盘海报赠礼需确认",
+    "水雾唇露商品未见明确赠品，保留未知",
+    "第二个同SKU同优惠条件时间点未采集，不计算价格变化"
+  ]
+}
