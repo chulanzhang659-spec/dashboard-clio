@@ -1,0 +1,126 @@
+{
+  "competitor_id": "dasique",
+  "platform": "抖音",
+  "shop_name": "DASIQUE代曦可官方旗舰店",
+  "shop_url": "https://www.douyin.com/user/MS4wLjABAAAA901JwXoz9rehEWgP7Nuc6Bu8Tr5ePMIrbEyyda8Viak",
+  "captured_at": "2026-10-16T09:45:00+08:00",
+  "capture_status": "partial_capture",
+  "scope": "MuMu抖音App从DASIQUE代曦可官方账号进入同名官方旗舰店；销量排序前5列表，第一款选中SKU和赠品海报已核验；数字店铺ID未取得。",
+  "extraction_method": "正常App页面截图人工核读；未入会、未领券、未下单",
+  "products": [
+    {
+      "rank": 1,
+      "title": "【明星同款】dasique代曦可四色腮红盘显嫩修容自然水光持妆韩妆",
+      "product_id": null,
+      "product_url": null,
+      "sku": "【热卖】#07糖果跳跳糖16.8g*1盘",
+      "selected_sku_display_price": 139,
+      "list_display_price": 139,
+      "sold_label": "已售4万+",
+      "price_label": "规格面板已选名称与139元大促价同屏核验",
+      "gift_copy": "商品海报：单笔买1赠点彩刷；单笔买≥2即赠点彩刷+手持镜+云朵包。库存及叠加条件未显示。",
+      "gift_reason": null,
+      "coupon_conditions": "详情另示入会领满259减10及双11消费券；未入会、未领券，适用资格未知",
+      "alternative_price": 135,
+      "alternative_price_condition": "抖音商城App专享展示价，未验证对应规格及领取条件",
+      "captured_at": "2026-10-16T09:45:00+08:00",
+      "link_status": "App商品列表可见；稳定商品ID和链接待补",
+      "evidence": [
+        "../daily-refresh-20261016/dasique-products.png",
+        "../daily-refresh-20261016/dasique-sku.png",
+        "../daily-refresh-20261016/dasique-offer.png",
+        "../daily-refresh-20261016/dasique-spec-entry.png"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "【达人专属】dasique水漾唇蜜水光清透滋润唇釉嘟嘟唇不易彩妆用品",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 119,
+      "sold_label": "已售2万+",
+      "price_label": "销量排序列表价，选中规格尚未核验",
+      "gift_copy": null,
+      "gift_reason": "赠品具体名称、数量和条件未核验",
+      "coupon_conditions": null,
+      "alternative_price": null,
+      "alternative_price_condition": null,
+      "captured_at": "2026-10-16T09:45:00+08:00",
+      "link_status": "App商品列表可见；稳定商品ID和链接待补",
+      "evidence": [
+        "../daily-refresh-20261016/dasique-products.png"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "【爱心多用膏】dasique/代曦可爱心多用膏唇颊两用韩系提亮柔雾",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 119,
+      "sold_label": "已售1万+",
+      "price_label": "销量排序列表价，选中规格尚未核验",
+      "gift_copy": null,
+      "gift_reason": "赠品具体名称、数量和条件未核验",
+      "coupon_conditions": null,
+      "alternative_price": null,
+      "alternative_price_condition": null,
+      "captured_at": "2026-10-16T09:45:00+08:00",
+      "link_status": "App商品列表可见；稳定商品ID和链接待补",
+      "evidence": [
+        "../daily-refresh-20261016/dasique-list34.png"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "【官方旗舰】dasique代曦可四色腮红膏通勤提亮日常韩淡妆显色高光",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 139,
+      "sold_label": "已售1万+",
+      "price_label": "销量排序列表价，选中规格尚未核验",
+      "gift_copy": null,
+      "gift_reason": "赠品具体名称、数量和条件未核验",
+      "coupon_conditions": null,
+      "alternative_price": null,
+      "alternative_price_condition": null,
+      "captured_at": "2026-10-16T09:45:00+08:00",
+      "link_status": "App商品列表可见；稳定商品ID和链接待补",
+      "evidence": [
+        "../daily-refresh-20261016/dasique-list34.png"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "【四色腮红唇釉套组】dasique代曦可腮红哑光粉色+唇釉彩妆1.5g",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 219,
+      "sold_label": "已售1万+",
+      "price_label": "销量排序列表价，选中规格尚未核验",
+      "gift_copy": null,
+      "gift_reason": "赠品具体名称、数量和条件未核验",
+      "coupon_conditions": null,
+      "alternative_price": null,
+      "alternative_price_condition": null,
+      "captured_at": "2026-10-16T09:45:00+08:00",
+      "link_status": "App商品列表可见；稳定商品ID和链接待补",
+      "evidence": [
+        "../daily-refresh-20261016/dasique-list5.png"
+      ]
+    }
+  ],
+  "missing": [
+    "其余4款选中SKU与商品详情赠品条件",
+    "稳定商品链接及数字店铺ID",
+    "优惠资格与赠品库存",
+    "同一SKU第二可比时点"
+  ]
+}
