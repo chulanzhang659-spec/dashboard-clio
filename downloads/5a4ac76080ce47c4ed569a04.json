@@ -1,0 +1,56 @@
+{
+  "competitor_id": "dasique",
+  "platform": "抖音",
+  "shop_name": "DASIQUE代曦可官方旗舰店",
+  "shop_url": "https://www.douyin.com/user/MS4wLjABAAAA901JwXoz9rehEWgP7Nuc6Bu8Tr5ePMIrbEyyda8Viak",
+  "captured_at": "2026-10-19T17:20:26.144544+08:00",
+  "capture_status": "partial_capture",
+  "scope": "10/19 MuMu抖音App从官方账号进入DASIQUE代曦可官方旗舰店，销量前2卡片可读；打开首款详情新出现账号安全/人脸验证，已停止。10/16历史证据保留，不冒充本日核验。",
+  "extraction_method": "正常App页面截图人工核读；未入会、未领券、未下单",
+  "products": [
+    {
+      "rank": 1,
+      "title": "【明星同款】dasique代曦可四色腮红盘显嫩修容自然水光持妆韩妆",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 139,
+      "sold_label": "已售4万+",
+      "price_label": "销量排序列表大促价，本日选中规格未核验",
+      "gift_copy": null,
+      "gift_reason": "本日详情受账号安全验证限制，赠品条件未核验",
+      "coupon_conditions": null,
+      "captured_at": "2026-10-19T17:20:26.144544+08:00",
+      "link_status": "App列表可见，详情受新账号安全验证限制",
+      "evidence": [
+        "../daily-refresh-20261019/dasique-list.png"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "【达人专属】dasique水漾唇蜜水光清透滋润唇釉嘟嘟唇不易彩妆用品",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 119,
+      "sold_label": "已售2万+",
+      "price_label": "销量排序列表大促价，本日选中规格未核验",
+      "gift_copy": null,
+      "gift_reason": "本日详情受账号安全验证限制，赠品条件未核验",
+      "coupon_conditions": null,
+      "captured_at": "2026-10-19T17:20:26.144544+08:00",
+      "link_status": "App列表可见，详情受新账号安全验证限制",
+      "evidence": [
+        "../daily-refresh-20261019/dasique-list.png"
+      ]
+    }
+  ],
+  "missing": [
+    "本日选中SKU和赠品优惠条件",
+    "销量第3至5款",
+    "稳定商品链接和数字店铺ID",
+    "新账号安全/人脸验证需用户处理"
+  ]
+}
